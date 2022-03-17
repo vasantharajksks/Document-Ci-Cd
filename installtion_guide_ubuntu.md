@@ -285,7 +285,7 @@ Then to verify use below commands
 	- rm -rf /usr/local/bin/helm
 
 
-## installing kubeadm on GCP machines
+## installing kubeadm on ubuntu machines
 
 #### Install kubelet, kubeadm and kubectl
 

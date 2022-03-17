@@ -285,7 +285,7 @@ Then to verify use below commands
 	- rm -rf /usr/local/bin/helm
 
 
-## installing kubeadm on ubuntu machines
+## installing kubeadm on ubuntu-18.04 machines
 
 #### Install kubelet, kubeadm and kubectl
 

@@ -213,13 +213,7 @@ docker run -d -p 9000:9000 sonarqube:lts
       docker run --name artifactory -v $JFROG_HOME/artifactory/var/:/var/opt/jfrog/artifactory -d -p 8081:8081 -p 8082:8082 docker.bintray.io/jfrog/artifactory-oss:latest
    
    
-## Ansible Installation in ubuntu 16.04
 
- - sudo apt-add-repository ppa:ansible/ansible
- - sudo apt-get update
- - sudo apt-get install ansible
-
-For more details - https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-ubuntu-16-04
 
 
 ## kubernetes installation on ubuntu 16.04 ( kubeadm - single master multi nodes )
